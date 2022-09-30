@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<yml_catalog date="2022-09-02 12:51">
+	<shop>
+		<categories>
+			<category id="1">Корень</category>
+			<category id="2" parentId="1">Главная</category>
+			<category id="3" parentId="558">Кепки с прямым козырьком</category>
+			<category id="4" parentId="2">Панамы</category>
+			<category id="8" parentId="2">Шапки</category>
+			<category id="265" parentId="3">New York YANKEES</category>
+			<category id="452" parentId="8">Баскетбольные шапки (NBA)</category>
+			<category id="459" parentId="8">Бейсбольные шапки (MLB)</category>
+			<category id="468" parentId="459">New York YANKEES</category>
+			<category id="476" parentId="452">Los Angeles Lakers</category>
+			<category id="481" parentId="8">Supreme</category>
+			<category id="485" parentId="8">Red Bull</category>
+			<category id="544" parentId="8">Jordan</category>
+			<category id="558" parentId="2">Кепки, бейсболки</category>
+			<category id="559" parentId="558">Авто, мото кепки</category>
+			<category id="570" parentId="558">POLO Ralph Lauren</category>
+			<category id="580" parentId="558">Lacoste</category>
+			<category id="588" parentId="558"/>
+			<category id="594" parentId="559">KTM</category>
+			<category id="599" parentId="558">NY (New York Yankees)</category>
+			<category id="643" parentId="558">Утепленные кепки</category>
+			<category id="645" parentId="558">Без надписей</category>
+			<category id="648" parentId="8">Armani Jeans</category>
+			<category id="650" parentId="8">Dirk Bikkembergs</category>
+			<category id="651" parentId="8">Calvin Klein</category>
+			<category id="652" parentId="8">Converse</category>
+			<category id="653" parentId="8">Diesel </category>
+			<category id="654" parentId="8">Dsquared2 </category>
+			<category id="656" parentId="8">Fred Perry</category>
+			<category id="660" parentId="8">Stone Island</category>
+			<category id="663" parentId="8"/>
+			<category id="667" parentId="8">Россия</category>
+			<category id="677" parentId="8">POLO Ralph Lauren</category>
+			<category id="680" parentId="8">Футбольные шапки</category>
+			<category id="694" parentId="680">Barcelona</category>
+			<category id="695" parentId="680">Atlético Madrid</category>
+			<category id="702" parentId="680">Real Madrid</category>
+			<category id="735" parentId="8">THE NORTH FACE</category>
+			<category id="744" parentId="558">Gant</category>
+			<category id="756" parentId="4"/>
+			<category id="787" parentId="558"/>
+			<category id="803" parentId="8">Trussardi Jeans</category>
+			<category id="808" parentId="8">Kenzo</category>
+			<category id="816" parentId="558">Billionaire</category>
+			<category id="829" parentId="558">DSQUARED2</category>
+			<category id="855" parentId="558">Off-White</category>
+			<category id="858" parentId="2">Поло</category>
+			<category id="859" parentId="858"/>
+			<category id="860" parentId="2">Мужские спортивные костюмы</category>
+			<category id="861" parentId="860">Paul and Shark</category>
+			<category id="863" parentId="680">Ростов</category>
+			<category id="864" parentId="680">PSG</category>
+			<category id="868" parentId="8">Off-White</category>
+			<category id="870" parentId="8">11 By Boris Bidjan Saberi</category>
+			<category id="871" parentId="858">NAPAPIJRI</category>
+			<category id="874" parentId="8">Zetta</category>
+			<category id="875" parentId="2">Шарфы, снуды</category>
+			<category id="883" parentId="875">Fred Perry</category>
+			<category id="891" parentId="2">Спортивные брюки</category>
+			<category id="892" parentId="2">Джемперы и толстовки</category>
+			<category id="893" parentId="892">Paul and Shark</category>
+			<category id="894" parentId="860">NAPAPIJRI</category>
+			<category id="898" parentId="2">Куртки, Ветровки</category>
+			<category id="899" parentId="898">Napapijri</category>
+			<category id="908" parentId="891">Paul and Shark</category>
+			<category id="910" parentId="2">Футболки</category>
+			<category id="911" parentId="910">Paul and Shark</category>
+			<category id="913" parentId="910">Napapijri</category>
+			<category id="914" parentId="558">Aeronautica Militare</category>
+			<category id="918" parentId="2">Шорты</category>
+			<category id="919" parentId="918">Paul and  Shark</category>
+			<category id="920" parentId="898">Paul and Shark</category>
+			<category id="955" parentId="2">Жилеты</category>
+			<category id="956" parentId="955">Paul and Shark</category>
+			<category id="971" parentId="860">Теплые спортивные костюмы</category>
+			<category id="976" parentId="8">Шапки-Ушанки</category>
+			<category id="982" parentId="892">Napapijri</category>
+			<category id="985" parentId="2">Рубашки</category>
+			<category id="986" parentId="985">Paul and Shark</category>
+			<category id="990" parentId="2">Пуховики</category>
+			<category id="992" parentId="990">Paul and Shark</category>
+			<category id="1003" parentId="955">Napapijri</category>
+			<category id="1007" parentId="559">Red Bull</category>
+			<category id="1039" parentId="8">Brooklyn</category>
+			<category id="1044" parentId="2">Джинсы</category>
+			<category id="1051" parentId="8">Los Angeles</category>
+			<category id="1053" parentId="558">Loro Piana</category>
+			<category id="1054" parentId="8">Aeronautica Militare</category>
+			<category id="1055" parentId="558">Versace</category>
+			<category id="1056" parentId="860">Hugo Boss</category>
+			<category id="1057" parentId="990">Hugo Boss</category>
+			<category id="1058" parentId="990">Burberry</category>
+		</categories>
+		<offers>
+			<offer available="true" group_id="10773" id="10773">
+				<url>https://redshark.ru/10773-dzhemper-paul-and-shark196.html</url>
+				<price>5050.00</price>
+				<oldprice>5050.00</oldprice>
+				<categoryId>893</categoryId>
+				<picture>https://redshark.ru/25140-home_default/dzhemper-paul-and-shark196.jpg</picture>
+				<name>Джемпер Paul and Shark_196</name>
+				<param name="Цвет">Синий</param>
+				<param name="Материал">50% хлопок - 50% полиэстер</param>
+				<param name="addedDate">2021-11-19</param>
+				<param name="New">false</param>
+				<description>&lt;![CDATA[]]&gt;</description>
+				<vendor>Paul and Shark</vendor>
+				<stock id="spb">
+					<available>true</available>
+					<url>http://3841e170-550b-4291-bc8e-ab262354d9a9/-/_{id-offer}</url>
+					<name>98024cd0-9175-4382-bf30-1961294b83a3</name>
+					<price>1357726449</price>
+					<oldprice>787056138</oldprice>
+					<description>msk stock description</description>
+				</stock>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
